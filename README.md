@@ -1,0 +1,2 @@
+# NewRepositry
+リポシトリー１
